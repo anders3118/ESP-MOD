@@ -1,0 +1,5 @@
+
+server:
+  port: ${SERVER_PORT}
+  servlet:
+    contextPath: /api/v1
