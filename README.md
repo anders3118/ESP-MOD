@@ -1,2 +1,2 @@
 # ESP-MOD
-Repositorio modelado y validación de arquitectura
+Repositorio modelo y validación de arquitectura
